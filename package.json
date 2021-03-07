@@ -1,0 +1,17 @@
+{
+  "name": "empowher",
+  "version": "1.0.0",
+  "description": "hackathon",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^5.24.3",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
